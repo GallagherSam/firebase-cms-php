@@ -1,0 +1,16 @@
+{
+    "index": {
+        "slot_1": {
+            "template": "header",
+            "content": {
+                "nameField": "Robin Mello Ph.D"
+            }
+        },
+        "slot_2": {
+            "template": "index-content",
+            "content": {
+                "bodyText": "A really long string with possibly some markup"
+            }
+        }
+    }
+}

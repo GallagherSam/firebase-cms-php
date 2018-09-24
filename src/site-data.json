@@ -1,0 +1,5 @@
+{
+  "index-content": "This is test content",
+  "page-content": "this is more content",
+  "structure": { "index": { "content": "test" } }
+}
