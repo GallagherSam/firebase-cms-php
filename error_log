@@ -1,0 +1,183 @@
+[25-Sep-2018 01:47:24 UTC] PHP Warning:  require_once(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:47:24 UTC] PHP Fatal error:  require_once(): Failed opening required './classes/util.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:47:29 UTC] PHP Warning:  require_once(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:47:29 UTC] PHP Fatal error:  require_once(): Failed opening required './classes/util.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:47:35 UTC] PHP Warning:  require_once(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:47:35 UTC] PHP Fatal error:  require_once(): Failed opening required './classes/util.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:48:21 UTC] PHP Warning:  require_once(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:48:21 UTC] PHP Fatal error:  require_once(): Failed opening required './classes/util.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:48:23 UTC] PHP Warning:  require_once(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:48:23 UTC] PHP Fatal error:  require_once(): Failed opening required './classes/util.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:48:23 UTC] PHP Warning:  require_once(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:48:23 UTC] PHP Fatal error:  require_once(): Failed opening required './classes/util.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:48:24 UTC] PHP Warning:  require_once(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:48:24 UTC] PHP Fatal error:  require_once(): Failed opening required './classes/util.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:48:24 UTC] PHP Warning:  require_once(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:48:24 UTC] PHP Fatal error:  require_once(): Failed opening required './classes/util.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:48:52 UTC] PHP Warning:  require_once(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:48:52 UTC] PHP Fatal error:  require_once(): Failed opening required './classes/util.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:49:30 UTC] PHP Warning:  require_once(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:49:30 UTC] PHP Fatal error:  require_once(): Failed opening required './classes/util.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:49:31 UTC] PHP Warning:  require_once(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:49:31 UTC] PHP Fatal error:  require_once(): Failed opening required './classes/util.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:49:52 UTC] PHP Warning:  require_once(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:49:52 UTC] PHP Fatal error:  require_once(): Failed opening required './classes/util.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:49:53 UTC] PHP Warning:  require_once(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:49:53 UTC] PHP Fatal error:  require_once(): Failed opening required './classes/util.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:50:13 UTC] PHP Warning:  require_once(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:50:13 UTC] PHP Fatal error:  require_once(): Failed opening required './classes/util.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:50:21 UTC] PHP Warning:  require_once(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:50:21 UTC] PHP Fatal error:  require_once(): Failed opening required './classes/util.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:50:26 UTC] PHP Warning:  require_once(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:50:26 UTC] PHP Fatal error:  require_once(): Failed opening required './classes/util.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:50:31 UTC] PHP Warning:  require_once(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:50:31 UTC] PHP Fatal error:  require_once(): Failed opening required './classes/util.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:50:49 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:50:49 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:50:54 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:50:54 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:00 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:00 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:04 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:04 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:05 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:05 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:05 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:05 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:05 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:05 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:06 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:06 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:11 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:11 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:13 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:13 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:13 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:13 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:22 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:22 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:22 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:22 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:27 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:27 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Util' not found in /home/ssamaz/public_html/firebase-test/src/api/index.php:19
+Stack trace:
+#0 /home/ssamaz/public_html/firebase-test/src/index.php(5): FirebaseCms->__construct()
+#1 {main}
+  thrown in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 19
+[25-Sep-2018 01:51:28 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:28 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Util' not found in /home/ssamaz/public_html/firebase-test/src/api/index.php:19
+Stack trace:
+#0 /home/ssamaz/public_html/firebase-test/src/index.php(5): FirebaseCms->__construct()
+#1 {main}
+  thrown in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 19
+[25-Sep-2018 01:51:32 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:32 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Util' not found in /home/ssamaz/public_html/firebase-test/src/api/index.php:17
+Stack trace:
+#0 /home/ssamaz/public_html/firebase-test/src/index.php(5): FirebaseCms->__construct()
+#1 {main}
+  thrown in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 17
+[25-Sep-2018 01:51:33 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:33 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Util' not found in /home/ssamaz/public_html/firebase-test/src/api/index.php:17
+Stack trace:
+#0 /home/ssamaz/public_html/firebase-test/src/index.php(5): FirebaseCms->__construct()
+#1 {main}
+  thrown in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 17
+[25-Sep-2018 01:51:34 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:34 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Util' not found in /home/ssamaz/public_html/firebase-test/src/api/index.php:17
+Stack trace:
+#0 /home/ssamaz/public_html/firebase-test/src/index.php(5): FirebaseCms->__construct()
+#1 {main}
+  thrown in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 17
+[25-Sep-2018 01:51:35 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:35 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Util' not found in /home/ssamaz/public_html/firebase-test/src/api/index.php:17
+Stack trace:
+#0 /home/ssamaz/public_html/firebase-test/src/index.php(5): FirebaseCms->__construct()
+#1 {main}
+  thrown in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 17
+[25-Sep-2018 01:51:35 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:35 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Util' not found in /home/ssamaz/public_html/firebase-test/src/api/index.php:17
+Stack trace:
+#0 /home/ssamaz/public_html/firebase-test/src/index.php(5): FirebaseCms->__construct()
+#1 {main}
+  thrown in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 17
+[25-Sep-2018 01:51:36 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:36 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Util' not found in /home/ssamaz/public_html/firebase-test/src/api/index.php:17
+Stack trace:
+#0 /home/ssamaz/public_html/firebase-test/src/index.php(5): FirebaseCms->__construct()
+#1 {main}
+  thrown in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 17
+[25-Sep-2018 01:51:36 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:36 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Util' not found in /home/ssamaz/public_html/firebase-test/src/api/index.php:17
+Stack trace:
+#0 /home/ssamaz/public_html/firebase-test/src/index.php(5): FirebaseCms->__construct()
+#1 {main}
+  thrown in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 17
+[25-Sep-2018 01:51:43 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:43 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Util' not found in /home/ssamaz/public_html/firebase-test/src/api/index.php:17
+Stack trace:
+#0 /home/ssamaz/public_html/firebase-test/src/index.php(5): FirebaseCms->__construct()
+#1 {main}
+  thrown in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 17
+[25-Sep-2018 01:51:44 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:44 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Util' not found in /home/ssamaz/public_html/firebase-test/src/api/index.php:17
+Stack trace:
+#0 /home/ssamaz/public_html/firebase-test/src/index.php(5): FirebaseCms->__construct()
+#1 {main}
+  thrown in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 17
+[25-Sep-2018 01:51:58 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:51:58 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:52:03 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:52:03 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:52:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function consoleLog() on null in /home/ssamaz/public_html/firebase-test/src/api/index.php:19
+Stack trace:
+#0 /home/ssamaz/public_html/firebase-test/src/index.php(5): FirebaseCms->__construct()
+#1 {main}
+  thrown in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 19
+[25-Sep-2018 01:52:09 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:52:09 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:52:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Util' not found in /home/ssamaz/public_html/firebase-test/src/api/index.php:17
+Stack trace:
+#0 /home/ssamaz/public_html/firebase-test/src/index.php(5): FirebaseCms->__construct()
+#1 {main}
+  thrown in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 17
+[25-Sep-2018 01:52:24 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:52:24 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:52:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Util' not found in /home/ssamaz/public_html/firebase-test/src/api/index.php:17
+Stack trace:
+#0 /home/ssamaz/public_html/firebase-test/src/index.php(5): FirebaseCms->__construct()
+#1 {main}
+  thrown in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 17
+[25-Sep-2018 01:52:26 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:52:26 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:52:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Util' not found in /home/ssamaz/public_html/firebase-test/src/api/index.php:17
+Stack trace:
+#0 /home/ssamaz/public_html/firebase-test/src/index.php(5): FirebaseCms->__construct()
+#1 {main}
+  thrown in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 17
+[25-Sep-2018 01:53:05 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:53:05 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:53:25 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:53:25 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:53:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Util' not found in /home/ssamaz/public_html/firebase-test/src/api/index.php:17
+Stack trace:
+#0 /home/ssamaz/public_html/firebase-test/src/index.php(5): FirebaseCms->__construct()
+#1 {main}
+  thrown in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 17
+[25-Sep-2018 01:54:35 UTC] PHP Warning:  include(./classes/util.php): failed to open stream: No such file or directory in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:54:35 UTC] PHP Warning:  include(): Failed opening './classes/util.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 4
+[25-Sep-2018 01:54:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Util' not found in /home/ssamaz/public_html/firebase-test/src/api/index.php:17
+Stack trace:
+#0 /home/ssamaz/public_html/firebase-test/src/index.php(5): FirebaseCms->__construct()
+#1 {main}
+  thrown in /home/ssamaz/public_html/firebase-test/src/api/index.php on line 17
