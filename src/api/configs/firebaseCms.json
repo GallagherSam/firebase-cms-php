@@ -1,5 +1,6 @@
 {
-    "structure": true,
+    "baseUrl": "firebase-test/src/api/",
     "content": true,
-    "firebaseStartingRoot": "sites/"
+    "firebaseStartingRoot": "sites/",
+    "structure": true
 }

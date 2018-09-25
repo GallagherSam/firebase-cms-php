@@ -27,6 +27,18 @@ class FirebaseCms {
 
         $this->firebaseCmsConfig = json_decode(file_get_contents("./configs/firebaseCms.json"));
 
+        // Check and init structure
+        if ($this->firebaseCmsConfig->structure) {
+
+        } else {
+            // Simply serve the templates folder 1 for 1
+        }
+
+        // Check and init content
+        if ($this->firebaseCmsConfig->content) {
+
+        }
+
 
     }
 

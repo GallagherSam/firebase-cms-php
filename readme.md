@@ -8,7 +8,7 @@ The goal is for users to be able to drop the `/src/api/` contents in the root of
 
 ** Properties **
 
-`structure`: boolean value if firebase holds structure data for the website.
+`baseUrl`: a string that defines the base url to be considered for your website. This examples lives at `domain.com/firebase-test/src/api/`, so `/firebase-test/src/api/` would be the value.
 
 `content`: boolean value if firebase holds content data for the website.
 
@@ -19,6 +19,7 @@ Typically users will want to store the website information in a child node in fi
 ```
 /
 -> adminConfig
+    -> ...
 -> websites
     -> wookiesSellingBanannas
         -> siteData
@@ -29,3 +30,6 @@ Typically users will want to store the website information in a child node in fi
 ```
 
 The data for the website doesn't start until `websites/wookiesSellingBanannas/`, so this would be the string
+
+`structure`: boolean value if firebase holds structure data for the website.
+
